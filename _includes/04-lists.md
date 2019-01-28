@@ -1,0 +1,3 @@
+- Favorute Things
+  - Programming 💻 
+  - Watching Movies 🎦 
